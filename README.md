@@ -145,12 +145,3 @@ B.Tech ECE, IIIT Manipur
 Email: viplavs2004@gmail.com
 LinkedIn: www.linkedin.com/in/viplavs2004
 
-
-
-Displays the predicted Math Score upon submission.
-
-Author
-Viplav Singh
-B.Tech ECE, IIIT Manipur
-Email: viplavs2004@gmail.com
-LinkedIn: www.linkedin.com/in/viplavs2004
